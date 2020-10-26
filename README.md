@@ -17,7 +17,8 @@ PlotQSPData.m: MatLab script for plotting the results obtained by running
 			 QSPClusterAnalysis.py and ParseQSPData.m
 			 
 If using this or related code please cite
-''' 
+
+```
  Kirshtein, A.; Akbarinejad, S.; Hao, W.; Le, T.; Aronow, R.A.; Shahriyari, L. 
   Data driven mathematical model of colon cancer progression. (Manuscript submitted for publication).
-  '''
+```
