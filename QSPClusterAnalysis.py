@@ -9,9 +9,11 @@ Conceptualization of sensitivity algorithm by Wenrui Hao, http://personal.psu.ed
 
 
 *part of https://github.com/ShahriyariLab/Data-driven-mathematical-model-for-colon-cancer
- If using this or related code please cite 
- Kirshtein, A.; Akbarinejad, S.; Hao, W.; Le, T.; Aronow, R.A.; Shahriyari, L. 
-  Data driven mathematical model of colon cancer progression. (Manuscript submitted for publication).
+
+ If using any part of this code please cite 
+  A. Kirshtein, S. Akbarinejad, W. Hao, T. Le, S. Su, R. Aronow, L. Shahriyari, 
+  Data driven mathematical model of colon cancer progression, Journal of Clinical Medicine, 2020.
+
 '''
 
 from qspmodel import *
